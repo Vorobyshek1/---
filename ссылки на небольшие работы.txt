@@ -1,0 +1,20 @@
+
+Python - небольшой пулл работ (самая малая часть)
+1) https://colab.research.google.com/drive/17HgK7C1uMNa-_IQc0o0J9LrkEL1_0Vm8?usp=sharing
+2) https://colab.research.google.com/drive/1Rqx_QeYwMCQqJUhqgb6YwAV47FP_JSve?usp=sharing
+3) https://colab.research.google.com/drive/1W5TTh9sV4z8_DjHKu9S0dgboUVGEsq_d?usp=sharing
+4) https://colab.research.google.com/drive/1mefdU7kEfgBZXUHMEofq1_iMm9QAOnNW?usp=sharing
+5) https://colab.research.google.com/drive/1zid34znmtoCJ4mQCCTdzi6eAlq-EVjs2?usp=sharing
+6) https://colab.research.google.com/drive/1Lixa0s1K_X_boRvf9E6vgUqHBYCW9su2?usp=sharing
+7) https://colab.research.google.com/drive/17HgK7C1uMNa-_IQc0o0J9LrkEL1_0Vm8?usp=sharing
+8) https://colab.research.google.com/drive/18GW0Y3FYTfeqbYiMN5RlA77Cct_f1MOn?usp=sharing
+9) https://colab.research.google.com/drive/1iJiPfridOo_wUjhEb504-g8OflqFkc7t?usp=sharing
+10) https://colab.research.google.com/drive/1t1YQqUms3yKT4t-PfamB1xPm6-WSC_5p?usp=sharing
+
+R - работы с моделями
+1) https://colab.research.google.com/drive/16rLEeUB9nUm9n7bGhvwk_3ZuUZqywWW-?usp=sharing
+2) https://colab.research.google.com/drive/13KDIAMzW-g2W0BwMmAqwNAQomFFOSi6U?usp=sharing 
+3) https://colab.research.google.com/drive/1R-7-S-B2zGcQg4C3o9LifgvR6qRnUe6l?usp=sharing
+4) https://colab.research.google.com/drive/1znlKcpD27GNL3bwjrl6Ulq_b7wFTV0RV?usp=sharing
+5) https://colab.research.google.com/drive/1VRLmFV_XcX3Q-K9XF6ArcuWOWrNmrUOL?usp=sharing
+6) https://colab.research.google.com/drive/1i8FTAeGn5kqBKSFlw7l8OZ7Hv7ZolOXr?usp=sharing
